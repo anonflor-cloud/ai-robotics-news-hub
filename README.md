@@ -30,7 +30,7 @@ AI Robotics News Hub isn't just another news aggregator - it's a **thriving comm
 
 ## 🚀 **Live Demo**
 
-Experience the platform live: **[AI Robotics News Hub](https://YOUR_USERNAME.github.io/AI-robotics-news-hub)**
+Experience the platform live: **[AI Robotics News Hub](https://anonflor-cloud.github.io/AI-robotics-news-hub)**
 
 *🎉 Try the PWA feature - install it on your phone for the full app experience!*
 
@@ -75,7 +75,7 @@ Backend     │ Firebase (planned for v2.0)
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/AI-robotics-news-hub.git
+git clone https://github.com/anonflor-cloud/AI-robotics-news-hub.git
 cd AI-robotics-news-hub
 
 # 2️⃣ Install dependencies
@@ -220,9 +220,9 @@ MIT License - Feel free to use this project for:
 **[Your Name]** - *AI Enthusiast & Full-Stack Developer*
 
 - 🌐 **Website**: [your-website.com](https://your-website.com)
-- 🐦 **Twitter**: [@your_twitter](https://twitter.com/your_twitter)
+- 🐦 **Twitter**: [@your_twitter](https://x.com/EarthFr1end)
 - 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: anonflor@gmail.com
 
 ---
 
